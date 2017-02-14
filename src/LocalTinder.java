@@ -6,10 +6,9 @@ import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
 /**
- * Created by tinab on 10-Feb-17.
+ * @author Tina, Karo and Emma
  */
 public class LocalTinder extends Application {
-
     public static void main(String[] args){
         launch(args);
     }
